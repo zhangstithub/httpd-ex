@@ -23,7 +23,8 @@
     {"source": 3, "target": 10},
     {"source": 4, "target": 11},
     {"source": 5, "target": 12},
-    {"source": 6, "target": 13}],
+    {"source": 6, "target": 13}, 
+	{"source": 6, "target": 8}],
   "nodes": [
     {"size": 60, "score": 0, "id": "Androsynth", "type": "circle"},
     {"size": 10, "score": 0.2, "id": "Chenjesu", "type": "circle"},
@@ -42,4 +43,3 @@
   "directed": false,
   "multigraph": false
 }
-LICENSE
